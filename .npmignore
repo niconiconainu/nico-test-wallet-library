@@ -1,0 +1,8 @@
+node_modules/
+vite.config.ts
+.gitignore
+tsconfig.json
+tsconfig.node.json
+.eslintrc.cjs
+index.html
+.DS_Store
